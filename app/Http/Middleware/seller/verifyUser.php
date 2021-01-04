@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Middleware\seller;
+namespace App\Http\Middleware\retailseller;
 
 use Closure;
 use Illuminate\Http\Request;
